@@ -4,6 +4,10 @@
 
 go mod init github.com/hasanashik/puppy
 
+## Clean Go’s module cache
+
+go clean -modcache
+
 ## get dog package
 
 go get github.com/hasanashik/dog@latest
