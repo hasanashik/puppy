@@ -12,3 +12,4 @@ go clean -modcache
 
 go get github.com/hasanashik/dog@latest
 go mod tidy
+go get github.com/hasanashik/dog@v1.2.1
